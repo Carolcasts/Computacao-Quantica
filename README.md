@@ -12,3 +12,7 @@ A saída da medida é impressa no console.
 O circuito pode gerar qualquer um dos dois valores possíveis na base computacional, com igual probabilidade. Isso demonstra que o qubit está em sobreposição nas duas bases.
 
 Este circuito é um exemplo simples de como a sobreposição pode ser usada em circuitos quânticos. A sobreposição é uma ferramenta poderosa que pode ser usada para realizar cálculos que seriam impossíveis na física clássica.
+
+
+
+Este projeto está licenciado sob a [Licença Apache 2.0](https://github.com/Carolcasts/Computacao-Quantica/blob/main/LICENSE) - veja o arquivo LICENSE para mais detalhes.
